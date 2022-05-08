@@ -21,3 +21,13 @@
 - <samp>Biasannya dalam Array atau Collections, kita selalu fokus terhadap data, sedangkan dalam Stream, kita</samp>
  
   <samp>akan berfokus terhadap operasi apa yang akan dilakukan terhadap aliran data tersebut.</samp>
+  
+- <samp>Prinsip stream mirip seperti aliran sungai, dimana aliran data dapat ditambahkan operator, dimana </samp>
+  
+  <samp>operatornya bebas misalnya merubah data ataupun sorting data dll. dimana stream hanya mengalir satu kali</samp>
+  
+  <samp>seperti aliran sungai, berbeda pada collections misalnya melakukan iterasi dengan for each maka prosesnya</samp> 
+  
+  <samp>dapat melakukan berkali-kali untuk mengambil data-data. jadi pada stream data mengalir dari atas ke bawah,</samp> 
+  
+  <samp>jadi ketika datanya sudah berada dibawah maka tidak dapat kembali lagi ke atas.</samp>
