@@ -31,3 +31,17 @@
   <samp>dapat melakukan berkali-kali untuk mengambil data-data. jadi pada stream data mengalir dari atas ke bawah,</samp> 
   
   <samp>jadi ketika datanya sudah berada dibawah maka tidak dapat kembali lagi ke atas.</samp>
+  
+- <samp>Java Stream diimplementasikan oleh sebuah class bernama 'Stream' yang ada pada package 'java.util.stream'
+
+  <samp>'java.util.stream.Stream<T>'</samp>
+
+- <samp>Java Stream tidak sekompleks Java Collections, namun walapun sederhana, fitur Java Stream sangat powerfull.</samp>
+
+- <samp>Class Stream merupakan Generic Class, sehingga dapat membuat aliran data dengan tipe yang diinginkan misalnya</samp> 
+
+  <samp>seperti : membuat tipe aliran data String, Integer, Double, dll.</samp>
+
+- <samp>Meskipun java Collections dan java Stream berbeda namun keduanya saling mendukung, jadi java Stram mendukung</samp> 
+ 
+  <samp>java collections, sehingga kita dapat menggunakan java stream pada java collections yang telah dibuat.</samp>
