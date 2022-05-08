@@ -1,5 +1,6 @@
 package com.practice;
 
+
 /**
     - Java Stream diperkenalkan pertama kali di Java versi 8 atau 1.8.
     - Java Stream adalah implementasi di Java untuk aliran data.
