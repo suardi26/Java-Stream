@@ -1,4 +1,4 @@
-## Java-Stream
+## Java Stream
 
 - <samp>Java Stream diperkenalkan pertama kali di Java versi 8 atau 1.8.</samp>
  
